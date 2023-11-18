@@ -29,3 +29,5 @@
   [Read-Only Notebook](https://hub.labs.coursera.org:443/connect/sharedntkrecnm?forceRefresh=false&path=%2Fnotebooks%2FChurnPrediction.ipynb&isLabVersioning=file-prep)
 
   [Coursera Profile](https://www.coursera.org/user/c8d4a2a904f2536cc329d223a5ad6193)
+
+  [LinkedIn Profile](https://www.linkedin.com/in/shahin-majazi/)
